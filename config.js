@@ -1,4 +1,5 @@
-self.$config = {
+
+docute.init({
     home: './home.md',
     nav: [
         {
@@ -25,4 +26,4 @@ self.$config = {
             ]
         }
     ]
-}
+})
